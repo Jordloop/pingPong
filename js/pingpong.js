@@ -16,7 +16,7 @@ Calculator.prototype.pingPong = function(goal) {
     }
   }
   return output;
-}
+};
 
 //exports Calculator
 exports.calculatorModule = Calculator;
